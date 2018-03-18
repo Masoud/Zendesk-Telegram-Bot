@@ -1,4 +1,4 @@
-# Telegram Bot for sending Zendesk's tickets to Telegram channel
+# Telegram Bot for sending Zendesk's tickets to Telegram
 This bot send all of your tickets from support system of [Zendesk]( https://www.zendesk.com/) to your telegram channel (or your ID).
 
 # Installation
